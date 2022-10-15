@@ -12,7 +12,9 @@ I currently am in University at UNF (University of North Florida) pursing my Bac
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://static.cdnlogo.com/logos/s/13/swift.svg"/>
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"/>
+<br />
 
+#
 
 <details>
  <summary><h3>🤖 John's 0's and 1's Journey</h3></summary>
