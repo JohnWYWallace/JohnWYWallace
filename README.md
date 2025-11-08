@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/g0yN4FOryeRoc/giphy.gif" width="35"> John Wallace 
+# <img src="[https://media.giphy.com/media/g0yN4FOryeRoc/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1pMjFnYjRreDRyZWsydTh6a3ZkbWNtc2o0Y2M1YmtwbGZsMHFoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smGpsxCQzXwDS/giphy.gif)" width="35"> John Wallace 
 
 **`IOS Software Developer (Swift/C/C++/Objective-C)`**
 
